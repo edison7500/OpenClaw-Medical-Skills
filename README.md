@@ -89,7 +89,7 @@ Skills are picked up automatically on the next session. No restart needed.
 
 #### Method 2 — OpenClaw CLI
 
-If you use the OpenClaw plugin registry, you can search and install individual skills from there. For bulk install from this collection, Method 1 is faster.
+If you use the [OpenClaw plugin registry](https://clawhub.com), you can search and install individual skills from there. For bulk install from this collection, Method 1 is faster.
 
 ```bash
 openclaw plugins install <skill-slug>    # install a single skill

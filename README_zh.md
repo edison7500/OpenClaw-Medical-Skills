@@ -78,7 +78,7 @@ cp -r OpenClaw-Medical-Skills/skills/* ~/.openclaw/skills/
 
 #### 方法二 — OpenClaw CLI
 
-如果您使用 OpenClaw 插件注册表，您可以搜索并安装单个技能。批量安装整个集合建议使用方法一。
+如果您使用 [OpenClaw 插件注册表](https://clawhub.com)，您可以搜索并安装单个技能。批量安装整个集合建议使用方法一。
 
 ```bash
 openclaw plugins install <skill-slug>    # 安装单个技能
